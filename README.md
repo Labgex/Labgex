@@ -26,7 +26,7 @@ From back office to boardroom, warehouse to storefront, on-premise to cloud, des
 4.	Enterprise Software Solution
 5.	Cloud Computing & DevOps Solution
 
-## 3. Our Products
+## 3. [Our Products](https://www.labgex.com/our-products/)
 
 - #### ZODOCS - Comprehensive CRM Solution for Overseas Consultancies:
   ZODOCS is a cloud-based platform designed to assist consultants specialising in foreign study with managing lead generation, agents, and company procedures.
@@ -38,8 +38,10 @@ From back office to boardroom, warehouse to storefront, on-premise to cloud, des
   GexDesk is a comprehensive company management solution that simplifies day-to-day operations. With a secure login system, employees can easily clock in, manage projects and tasks, request leave, and access holiday schedules. From attendance tracking to project management, GexDesk provides all the essential tools necessary for efficient company management in one user-friendly platform.
 - #### SKOOLZO: cloud-based school management system
   Skoolzo is a cloud-based school management system designed to streamline administrative tasks and enhance communication within educational institutions. With comprehensive features tailored for efficient school management, Skoolzo integrates attendance tracking, admission management, and online assessments into a user-friendly platform.
+- #### Travelguide
+  Travel Guide simplifies travel planning with AI-powered data extraction. Just enter your favorite destination, and instantly access comprehensive information on attractions, accommodation, cuisine, weather, and more. Effortlessly plan your next adventure with Travel Guide.
 
-## 4. Our Clients
+## 4. [Our Clients](https://www.labgex.com/clients/)
 
 #### 1. [Paarva Creations](https://www.paarva.com)
 LabGex has proudly partnered with Paarva Creations, a leading creative design team, for several years. We're thrilled to announce our collaboration as Digital Solution Partners with Paarva, amplifying our innovative capabilities together.
