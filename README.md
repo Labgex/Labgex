@@ -4,12 +4,12 @@ Welcome to the official GitHub repository for LabGex Innovations! Explore our di
 
 ## Table of Contents
 
-1. About Us
-2. Our Services
-3. Our Products
-4. Our Clients
-5. Technologies
-6. Contact Us
+1. [About Us](https://github.com/Labgex#1-about-us)
+2. [Our Services](https://github.com/Labgex#2-our-services)
+3. [Our Products](https://github.com/Labgex#3-our-products)
+4. [Our Clients](https://github.com/Labgex#4-our-clients)
+5. [Technologies](https://github.com/Labgex#5-technologies)
+6. [Contact Us](https://github.com/Labgex#6-contact-us)
 
 ## 1. About Us
 
